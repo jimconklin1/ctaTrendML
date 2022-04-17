@@ -1,0 +1,37 @@
+function riskConfig = configRisk(dataConfig)
+riskConfig.buffer = 260;
+riskConfig.corrShrinkFactor = 0.85; 
+riskConfig.volAlpha = 0.5; 
+riskConfig.corrAlpha = 0.5; 
+riskConfig.covAlpha = 0.5; 
+riskConfig.volMix = 0.5; 
+riskConfig.volRangeHL = 11; 
+riskConfig.volRangeHL2 = 130; 
+riskConfig.volCloseHL = 21; 
+riskConfig.volCloseHL2 = 260; 
+riskConfig.corrHL = 65; 
+riskConfig.corrHL2 = 520; 
+riskConfig.overrideheader = {'fx.usdmyr','fx.usdidr'};
+riskConfig.volMethod = 'closeEWA';
+riskConfig.volFloor = 0.03;
+if nargin > 0 && ~isempty(dataConfig)
+   riskConfig.volFloor = repmat(0.03,[1,dataConfig.numAssets]);
+   indx = mapStrings(dataConfig.rates.bonds.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.03;
+   indx = mapStrings(dataConfig.rates.shortRates.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.005;
+   indx = mapStrings(dataConfig.comdty.energy.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.10;
+   indx = mapStrings(dataConfig.comdty.metals.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.10;
+   indx = mapStrings(dataConfig.comdty.ags.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.10;
+   indx = mapStrings(dataConfig.equity.dm.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.08;
+   indx = mapStrings(dataConfig.equity.em.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.08;
+   indx = mapStrings(dataConfig.ccy.dm.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.03;
+   indx = mapStrings(dataConfig.ccy.em.header,dataConfig.assetIDs,false);
+   riskConfig.volFloor(1,indx) = 0.03;
+end

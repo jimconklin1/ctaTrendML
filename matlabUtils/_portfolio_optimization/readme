@@ -1,0 +1,43 @@
+
+These files are used to compute Equal-Risk Contribution (ERC) portfolio.
+
+The only trick for the optimisation process is what fitness function to 
+minimise. I followed Roncalli paper and as stated in the Wilmott forum, 
+we should minimise the function defined by in the matlab script 
+"fm_fitnessERC.m". 
+
+I have also some Dow Jones data and a script file to test how the code 
+is working.
+
+Please note the parameters used within fmincon to let it converges.
+(for fast execution, you can set the Display option to 'off' instead 
+of 'iter' in qoptions. I set Display to 'iter' to show how the code 
+is converging.)
+
+The data in the file dowData.mat is the DJIA index and its stocks.
+This is why I used only stocks to define the covariance matrix in the
+file "fm_test_erc.m"
+
+I used two functions from the finance toolbox to compute the
+covariance matrix of the stocks (tick2ret.m & geom2arith). 
+There are "a lot of" methods for how the extract the covariance matrix. 
+
+The file dowData was extracted from an excel file, so you should find
+the stock's names from the variable txt as "txt(2,end)". The dates are
+"txt(:,1)".
+
+Let me know if you are able to run the code. You should start testing
+using Roncalli small matrices.
+
+There is also a test script "fm_test_grc.m" for a generalised risk-based
+optimisation where a specific risk-weights are assigned to a portfolio. 
+In this test, we have RiskWeights = (40%, 30%, 10%, 20%).
+
+Please let me know if something is missing.
+
+Best regards,
+
+Farid Moussaoui.
+mf@mfquant.net
+
+

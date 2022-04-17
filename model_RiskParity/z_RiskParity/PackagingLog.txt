@@ -1,0 +1,28 @@
+ant:
+<ant>
+  <mkdir dir="H:\GIT\quantSignals\model_RiskParity\z_RiskParity\for_redistribution" />
+  <mkdir dir="H:\GIT\quantSignals\model_RiskParity\z_RiskParity\for_testing" />
+  <mkdir dir="H:\GIT\quantSignals\model_RiskParity\z_RiskParity\for_redistribution_files_only" />
+</ant>
+mcc -C -a H:\GIT\matlabUtils\utilsJAR\*.jar -o z_RiskParity -W main:z_RiskParity -T link:exe -d H:\GIT\quantSignals\model_RiskParity\z_RiskParity\for_testing -v H:\GIT\quantSignals\model_RiskParity\z_RiskParity.m -a H:\GIT\quantSignals\_util\constructPortfolio.m -a H:\GIT\matlabUtils\utilsPD\glStatus.m -a H:\GIT\quantSignals\_util\srAddPaths.m -a H:\GIT\quantSignals\_util\srSetup.m -a H:\GIT\quantSignals\_util\srTsrpStore.m 
+[Warning: Invalid file or directory 'H:\GIT\matlabUtils\utilsJAR\*.jar'.] 
+[> In javaclasspath>local_validate_dynamic_path (line 266)
+  In javaclasspath>local_javapath (line 182)
+  In javaclasspath (line 119)
+  In javaaddpath (line 69)] 
+Compiler version: 6.0 (R2015a)
+Dependency analysis by REQUIREMENTS.
+[Warning: Adding path "H:\GIT\quantSignals\model_RiskParity" to Compiler path
+instance.] 
+Parsing file "H:\GIT\quantSignals\model_RiskParity\z_RiskParity.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 0 temporary MEX authorization files.
+Generating file "H:\GIT\quantSignals\model_RiskParity\z_RiskParity\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\Program Files\MATLAB\R2015a\toolbox\compiler\Resources\default_icon.ico to H:\GIT\quantSignals\model_RiskParity\z_RiskParity\for_testing\z_RiskParity.exe.
+Attempting to embed the CTF archive into the application H:\GIT\quantSignals\model_RiskParity\z_RiskParity\for_testing\z_RiskParity.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at H:\GIT\quantSignals\model_RiskParity\z_RiskParity\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 2 minutes and 48 seconds.

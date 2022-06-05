@@ -1,0 +1,10 @@
+conda install: 
+
+numpy
+pandas
+scipy
+openpyxl
+cx_Oracle
+lxml
+
+# echo C:\Local\PubEq\GitHub\MS3F\Reports\FactorAtt\lib >C:\Users\dpopov\AppData\Local\Continuum\anaconda3\envs\eh\Lib\site-packages\pubeq-ms3f.pth

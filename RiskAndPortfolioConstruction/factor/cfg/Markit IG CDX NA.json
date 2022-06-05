@@ -1,0 +1,7 @@
+{
+	"name": "*",
+	"riskFreeStripped": [],
+	"canStripRiskFree": false,
+	"orth": ["MSCIworld"],
+	"volScale": "BarcGlobalTreas"
+}

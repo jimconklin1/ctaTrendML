@@ -1,0 +1,16 @@
+PubEqPath.addLibPath('_util','_data','_platform','_database','_file','_date', '_string');
+rootPath = getMainScriptDir();
+addpath(fullfile(rootPath, '..'));
+
+inPath = fullfile(PubEqPath.localDataPath(), 'RAPC', 'factors'); 
+
+fctrList = {'MSCIworld', 'Markit IG CDX NA', 'BarcGlobalTreas', 'US Agency MBS' ... 
+    , 'msQuality', 'msValue', 'msMomentum', 'msLowBeta' ...
+    , 'HFRX', 'HFRX Equity', 'HFRX Event', 'HFRX CTA Macro' ...
+    , 'USD LIBOR 3M', 'SPX TR', 'HFRX EMN', 'BBDXY' ...
+    , 'BarcInflationLinked US', 'BarcTreasury TR US', 'US CDX IG 5yr'...
+};
+
+fRaw = loadFactors(fctrList, inPath);
+f = rawFctrListToOurTs(fRaw);
+[~, f] = splitTimeSeries(f, datenum(isoStrToDate('2012-07-01')));

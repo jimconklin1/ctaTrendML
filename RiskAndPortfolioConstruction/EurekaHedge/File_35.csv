@@ -1,0 +1,200 @@
+FundID,FundName,FundStyle,GeoMandate,Beta,AUM,AUM_Increase,pAlphaSrp_3yr
+5776,Sandler Offshore Fund,Long Short Equities,North America,0.040876592167654,115000000,1,1.39022443337535
+6300,Owl Creek II LP,Event Driven,Global,0.242756408176097,547000000,1,1.07766641415308
+6357,Quantitative Global Program,CTA/Managed Futures,Global,-0.0261686392590234,2003000060,1,1.43142977346254
+6503,Sandler Associates,Long Short Equities,North America,0.0419363502130233,146000000,1,1.45472668474038
+6540,KWK Partners LP,Arbitrage,North America,0.016585065924477,188000000,1,4.1710755442114
+6735,Brookdale International Partners LP,Arbitrage,Global,0.0589491767333823,760000000,1,2.64484640537311
+6856,Brookdale Global Opportunity Fund,Arbitrage,Global,0.0533724100036188,455000000,1,2.45736998586035
+7216,Parallax Fund LP,Relative Value,Global,-0.267022964132314,775000000,1,1.52708234052073
+7728,OCCO Eastern European Fund - Class A USD,Long Short Equities,Emerging Markets,0.191756007083302,486000000,1,0.982582300258743
+8858,Stratus Fund Ltd - Class B Shares (USD Standard Leverage),Multi-Strategy,Global,0.0463443862217836,249000000,1,0.86864356721801
+9328,The Cassiopeia Fund - Class B USD,Relative Value,Global,-0.00744564607247689,320000000,1,0.795592013264796
+9457,Stratus Fund Ltd - Class C Shares (USD 1.5x Leverage),Multi-Strategy,Global,0.0858459209786583,249000000,1,0.866274096361213
+14425,Paloma Partners LLC,Multi-Strategy,Global,0.145770274046189,5458999810,1,1.62556268888615
+16685,Quantitative Global 3x Fund LLC,CTA/Managed Futures,Global,-0.105523478913443,386000000,1,1.48337718018234
+16698,Waterfall Eden Fund LP,Distressed Debt,Global,0.038866790544901,2785999870,1,1.52386337596524
+17492,LH Asian Trade Finance Fund Ltd - Class A,Others,Asia ex Japan,0.0020924096816557,445000000,1,10.8322139918429
+18073,Tenor Opportunity Fund,Arbitrage,North America,0.194808823878108,611000000,1,1.60135327159376
+18606,Sector Healthcare Fund - Class A USD,Long Short Equities,Global,0.0546452774668026,667000000,1,2.04738616362408
+20076,Simplex Value Up Trust - USD Unhedged,Bottom-Up,Japan,0.179170537257969,539000000,1,0.979161576863963
+21862,Millburn Multi-Markets Trading LP,CTA/Managed Futures,Global,-0.106285730865222,542000000,1,0.980050403923593
+22848,Waterfall Eden Fund Ltd,Distressed Debt,Global,0.0414048382910377,2785999870,1,1.65283352994174
+23024,Sandler Plus Domestic Fund LP,Long Short Equities,North America,0.100055164176164,214000000,1,1.46667392639847
+23025,Sandler Plus Offshore Fund Ltd,Long Short Equities,North America,0.0995945334398418,143000000,1,1.4269340522373
+25223,Segantii Asia-Pacific Equity Multi-Strategy Fund,Multi-Strategy,Asia inc Japan,-0.0190352924011154,2272999940,1,1.14947812056404
+26387,Pinpoint Multi-Strategy Master Fund - Class A,Multi-Strategy,Asia inc Japan,0.170712668238087,412000000,1,1.13903140194893
+27047,Waterfall Victoria Fund LP,Distressed Debt,Global,0.0124299368507068,871000000,1,5.42095226275939
+27049,Waterfall Victoria Fund Ltd,Distressed Debt,Global,0.0199996774133492,871000000,1,5.38006989764459
+27258,AAM Absolute Return Fund Plc - USD,Long Short Equities,Global,-0.194177731261939,267000000,1,1.32500061257692
+27501,The Kawa Offshore Feeder Fund,Multi-Strategy,Global,0.0750556929107545,282000000,1,0.977831609745675
+27712,Green Court Greater China Long/Short Equity Fund Ltd,Long Short Equities,Greater China,0.161452117165055,186000000,1,1.2490227893679
+28209,W Financial Fund LP,Others,North America,0.0188305517047845,279000000,1,23.6387591951675
+28215,Victory Arcadia Fund - Class A USD,Others,Global,-0.0155846079072637,585000000,1,3.69062892285967
+28523,UMJ Kotoshiro Fund - USD,Long Short Equities,Japan,0.181120773777018,385000000,1,0.862575010552005
+28801,Quantitative Tactical Aggressive Fund LLC,Others,North America,-0.26145506056102,1196999940,1,1.06912790532002
+29326,Renaissance Institutional Equities Fund,Long Short Equities,North America,0.244306397529024,20056999900,1,1.37447015678132
+30145,Luxembourg Life Fund - Long Term Growth Fund - A Class,Fixed Income,Global,-0.0522152503292596,769000000,1,12.6855128854528
+30218,Parallax Offshore Investors Fund Ltd,Relative Value,Global,-0.124846138648884,1118000000,1,0.809928054580453
+30414,Akito Fund USD - Class A Series 1,Long Short Equities,Japan,-0.00778326130599704,894000000,1,2.57287160711972
+30705,Barak Structured Trade Finance Fund,Fixed Income,Middle East & Africa,-0.00133747578886496,717000000,1,17.3035014725171
+31074,Dorsal Capital Partners LP,Long Short Equities,North America,0.108910761040058,2172000000,1,1.31493984985882
+31225,MW Japan Market Neutral Fund - Class A USD,Long Short Equities,Japan,0.0567959596531087,1028000000,1,1.92157403167886
+31340,Ancile Fund (Cayman) Ltd - Class B,Diversified Debt,Emerging Markets,0.00852278918080042,176000000,1,5.63108241194091
+31497,Veritas Global Real Return Fund - A USD,Long Short Equities,Global,0.219288728106255,302000000,1,1.19489050577976
+31570,Global Sigma Plus Program,CTA/Managed Futures,North America,-0.00045456335233621,194000000,1,0.793750557393246
+31777,RiverNorth Institutional Partners LP,Relative Value,North America,0.193517627679185,195000000,1,0.83586230568029
+31895,MidOcean Credit Opportunity Fund,Fixed Income,North America,0.12317046776483,759000000,1,0.756017635636947
+31908,Glazer Enhanced Fund LP,Arbitrage,North America,0.0804881381108976,327000000,1,3.15091345159935
+31987,Whitebox Multi-Strategy Partners LP,Multi-Strategy,North America,0.241855440676981,2231000060,1,0.771074018259448
+32202,TCA Global Credit Master Fund LP - A USD,Fixed Income,Global,0.00574269048837899,471000000,1,10.1042058330801
+32770,Parametrica Global Fund Ltd,Long Short Equities,Global,0.109387433043946,346000000,1,0.935849506413495
+33186,KS Asia Absolute Return Fund IC,Multi-Strategy,Asia inc Japan,0.0890742170218621,222000000,1,2.35151377294218
+33322,TT Mid-Cap Europe Long Short Fund - Class B USD,Long Short Equities,Europe,-0.115266621313712,885000000,1,1.83058525825351
+33514,Sino Vision Greater China Market Neutral Fund,Long Short Equities,Greater China,0.0911278592877574,278000000,1,1.72694442932128
+33531,BAF Latam Trade Finance Fund - Class A,Others,Latin America,-8.51679680261642e-06,959000000,1,11.5112452121363
+33590,Glazer Enhanced Offshore Fund Ltd,Arbitrage,North America,0.103567490375674,610000000,1,3.3009579722373
+33730,WAF Master Fund LP,Relative Value,North America,0.0644777774271951,473000000,1,1.30660861546932
+33758,The Mangrove Partners Fund LP,Event Driven,Global,0.118670139674437,880000000,1,1.21250720952195
+33831,CS IRIS Life Fund - QI USD,Others,Global,-0.0269985770118354,684000000,1,5.1999596149054
+34097,Camden Bonds Plus Fund LLC,Fixed Income,North America,0.0151085129566391,266000000,1,1.19736815423319
+34303,Lumyna - AQR Global Relative Value UCITS Fund - USD A Acc,Multi-Strategy,Global,0.0598414905091479,1791000060,1,0.786793797857252
+34308,Lumyna - AQR Global Relative Value UCITS Fund - USD D Acc,Multi-Strategy,Global,0.0601202035523211,1791000060,1,0.79840837329498
+34369,Credence Global - Class B,CTA/Managed Futures,Global,0.131044485818592,363000000,1,2.16389378269178
+34370,Credence Global - Class C,CTA/Managed Futures,Global,0.129153812402792,368000000,1,2.23082839144032
+34398,BG Fund - USD A Class,Multi-Strategy,Europe,0.169522185391579,3448000000,1,1.97414964552167
+34426,Graticule Asia Macro Fund Ltd - Class A,Macro,Asia inc Japan,0.117730459899952,4792999940,1,0.930433632268066
+34558,Weiss Multi-Strategy Partners LLC,Multi-Strategy,Global,0.0862100231858675,574000000,1,1.04158812520012
+34567,Weiss Multi-Strategy Partners (Cayman) Ltd,Multi-Strategy,Global,0.089994803848786,574000000,1,0.802861982159315
+34777,Waterfall Victoria ERISA Fund Ltd,Distressed Debt,Global,0.0456816586208114,871000000,1,5.13598697699111
+34811,Oddo BHF Merger Arbitrage Fund - Class 3 USD,Arbitrage,Global,0.0956106264547798,382000000,1,1.84374924776015
+34824,Twin Tree Capital Partners LP,Relative Value,Global,-0.00779054465471265,436000000,1,1.97626240223176
+34825,Nextar Fund Class B Shares,Macro,Global,0.0809717027621771,709000000,1,1.26535182202502
+34957,PIMCO Global Credit Opportunity Fund,Relative Value,Global,-0.0447641269985154,3612000000,1,1.39995297810928
+35307,Voya Mortgage Investment Fund,Fixed Income,North America,0.10411000228005,1472000000,1,0.886087985184334
+35430,ChapelGate Credit Opportunity Fund Ltd - Class A,Fixed Income,Global,0.123267916691815,706000000,1,2.93404700386905
+35473,LibreMax Partners LP,Fixed Income,North America,-0.00472686387775366,1351000060,1,1.10909620560467
+35478,LibreMax Offshore Fund Ltd,Fixed Income,North America,-0.00468144455121037,1351000060,1,1.11103724305396
+35660,Emso Fund Ltd,Multi-Strategy,Emerging Markets,0.127708705990094,468000000,1,1.39206501823414
+35745,Pictet TR - Corto Europe - HI USD,Long Short Equities,Europe,0.162482007159332,281000000,1,1.04876835626826
+35751,Pictet TR - Corto Europe - HP USD,Long Short Equities,Europe,0.162610091608673,281000000,1,0.924469789628446
+36530,True Partner Offshore Fund Series B-1,Arbitrage,Global,-0.243347367745861,108000000,1,0.775948692753825
+36545,Capstone Vol (Offshore) Ltd,Relative Value,Global,0.0738673887916865,2342000130,1,1.31085791437723
+36771,LGT (Lux) I Cat Bond Fund USD B2,Event Driven,Global,0.00452367826319325,695000000,1,1.5630964248236
+37075,Agora Fund Ltd - USD,Long Short Equities,Europe,-0.0347243047036192,553000000,1,1.77315604031633
+37076,Agora LP-B,Long Short Equities,Europe,-0.0727253490971275,553000000,1,1.9541148027306
+37550,Napier Park European Credit Opportunities Fund,Fixed Income,Europe,0.208386240784148,754000000,1,1.57468986403477
+37585,Structured Alpha 500,Arbitrage,North America,0.121675322090684,1160000000,1,1.37084106673481
+37586,Structured Alpha 1000,Arbitrage,North America,0.245266541043774,948000000,1,1.43370142419578
+37608,Rubrics Global Credit UCITS Fund Class A - USD,Fixed Income,Global,0.184058420739344,381000000,1,1.10916491209564
+37936,Alphadyne International Master Fund,Macro,Global,0.116554074273829,2120999940,1,0.971940293697358
+37937,ABCA Reversion Fund - Class C USD,Arbitrage,Global,-0.0406055795672419,235000000,1,1.45422366215701
+38011,BG ERISA Fund - USD A Class,Multi-Strategy,Europe,0.0627137651462611,3448000000,1,2.28034576204619
+38024,III Credit Opportunities Fund LP - Seed Series,Relative Value,North America,0.130962070014605,231000000,1,1.69600979537215
+38200,Good Hill Partners Fund LP,Fixed Income,North America,0.106508864782923,305000000,1,2.73592214008434
+38375,Serone Key Opportunities Fund - Class A USD,Diversified Debt,Global,0.191346318726193,179000000,1,2.80388876914739
+38685,GLG European Long-Short Fund - Class A USD Restricted,Long Short Equities,Europe,-0.0131693583074715,206000000,1,1.15605134388014
+38946,KL Special Opportunities Fund Ltd - Class A USD,Event Driven,Global,0.0618722321989309,572000000,1,1.83116423990397
+38948,EFA Dynamic II Fund Ltd - Class A,Fixed Income,Global,0.00269948380723792,366000000,1,13.3787217091797
+39044,The Prism Income Fund - USD Class,Fixed Income,Global,0.00510128373685421,245000000,1,24.2758084582092
+39058,Evenstar Sub-Fund I,Event Driven,Asia inc Japan,0.231886742476647,750000000,1,2.28327676289519
+39073,Altum Credit Master Fund Ltd,Fixed Income,Global,0.111756475026637,662000000,1,2.47793487054453
+39221,Guggenheim Partners Opportunistic Investment Grade Securities Fund LLC,Fixed Income,North America,0.0682825362894184,2350000130,1,2.90272155257372
+39261,Taiga Fund - USD Class,Long Short Equities,Europe,0.154986153374038,321000000,1,2.17094426125308
+39556,ArrowMark Fundamental Opportunity Fund LP,Multi-Strategy,North America,0.156759394657042,608000000,1,2.63217373463118
+39600,III Credit Opportunities Fund LP - Series A,Relative Value,North America,0.110222977326365,231000000,1,1.56222173060674
+39689,Stratus Feeder Ltd - Class C1.5 Shares (USD 1.5x Leverage),Multi-Strategy,Global,-0.134727582248156,2326000130,1,0.93693177203005
+39698,DLD Event Driven Strategy,Event Driven,North America,-0.0180790330888923,251000000,1,1.31846357409378
+39842,BlueBay Emerging Market Credit Alpha Fund - Class A USD,Fixed Income,Emerging Markets,0.138334227977605,243000000,1,1.43850045008636
+39871,Mondiale Trading Program 2X,CTA/Managed Futures,Global,0.170374996658047,551000000,1,0.76539111832662
+39894,The Mangrove Partners Fund (Cayman) Ltd,Event Driven,Global,0.209394134886658,880000000,1,0.993528259773083
+40050,Renaissance Institutional Diversified Alpha Fund,Multi-Strategy,North America,-0.0676374638165752,13159999500,1,0.867835798426478
+40051,Omni Event Fund Ltd - Class B,Event Driven,Global,-0.0624565019682423,500000000,1,2.07899053384933
+40201,Arete Macro Fund,Macro,Global,-0.025862982290597,457000000,1,1.37629632626272
+40283,The Alphanatics Fund - E USD,Multi-Strategy,Global,0.0412797561419585,1294000000,1,2.14152950660724
+40346,Lumyna - AQR Global Relative Value UCITS Fund - USD C Acc,Multi-Strategy,Global,-0.0997680641102998,1791000060,1,0.862605102670692
+40454,Securis Non-Life Fund,Others,Global,-0.0381919995936159,787000000,1,1.12392845395121
+40945,Leadenhall Diversified Insurance Linked Investments Fund Plc - Class B USD,Others,Global,-0.0056477032492117,688000000,1,0.883462642335628
+41023,Rimrock Low Volatility Master Fund Ltd,Fixed Income,Global,0.030171302147937,414000000,1,0.972445675140782
+41073,PIMCO Tactical Opportunities Fund,Multi-Strategy,Global,0.0373737296851232,1378000000,1,3.0672057013742
+41096,Marathon Global Emerging Markets Fund,Multi-Strategy,Emerging Markets,0.116376375240978,235000000,1,1.43744399469589
+41117,AGSF LP,CTA/Managed Futures,North America,-0.0833846278152813,117000000,1,1.16989714286549
+41188,PIMCO Commodity Alpha Fund,Multi-Strategy,Global,0.165759084041563,1518000000,1,2.45734258899477
+41272,Emso Saguaro Ltd,Multi-Strategy,Emerging Markets,0.125335083045155,1596999940,1,1.44507975950807
+41373,Macrosynergy Trading Fund Ltd - Class C USD,Macro,Emerging Markets,-0.191416650490244,795000000,1,0.831711838343182
+41540,TIG Securitized Asset Fund LP,Fixed Income,Global,-0.0892994198629194,556000000,1,1.53843070905842
+41543,TIG Securitized Asset Fund Ltd,Fixed Income,Global,-0.0892994198629194,556000000,1,1.53843070905842
+41567,Cerberus Global Residential Mortgage Opportunity Fund LP - Class A,Distressed Debt,North America,0.223066876321657,882000000,1,0.986632820694652
+41569,ArrowMark Fundamental Opportunity Fund Ltd,Multi-Strategy,North America,0.164449894939826,608000000,1,2.61776539857107
+41583,Ellington Credit Opportunities Fund Ltd,Fixed Income,Global,-0.0903534637747797,602000000,1,1.43917815241848
+41593,Rimrock Structured Product Fund,Fixed Income,Global,0.0591333036099884,410000000,1,3.13218294220833
+41594,Paloma International Ltd,Multi-Strategy,Global,0.0183121463920254,5458999810,1,1.99512477036358
+41726,AQR Multi-Strategy Alternative Fund - Class I,Multi-Strategy,Global,-0.123084056333856,3313999870,1,1.03706374841197
+41727,AQR Multi-Strategy Alternative Fund - Class N,Multi-Strategy,Global,-0.121627707033033,3313999870,1,0.953754737435603
+41779,Athos Asia Event Driven Fund - Class A,Event Driven,Asia inc Japan,-0.0172965180270309,366000000,1,1.42270415272834
+41815,Red Cliff Asia Fund - Class B USD,Relative Value,Asia inc Japan,-0.0285543026441876,829000000,1,1.48853483229679
+41869,Red Cliff Asia Fund - Class A USD,Relative Value,Asia inc Japan,0.0129818842215184,829000000,1,1.08408793918258
+41897,Polygon European Equity Opportunity Master Fund,Event Driven,Europe,0.191251239923844,794000000,1,1.27751072480086
+41916,Helium Opportunities Part A - USD,Arbitrage,Global,0.029136781819791,1103000060,1,3.71018101016914
+41967,Verition Multi-Strategy Composite Modified Interests Opt-In,Multi-Strategy,Global,0.0935343709661442,413000000,1,2.0974809922425
+42262,ASM Connaught House Fund LP,Distressed Debt,Asia inc Japan,0.146406248625432,227000000,1,1.71703362720292
+42439,Tamarack Global Healthcare Fund QP LP,Long Short Equities,North America,0.247484454632272,185000000,1,0.923288470928359
+42757,Hollis Park Opportunities Master Fund Ltd,Fixed Income,Global,0.0588003178005443,185000000,1,4.00914038318642
+42843,The Arbitrage Fund,Arbitrage,Global,0.0639573340159708,1898000000,1,0.857596942042612
+43125,Good Hill Overseas Fund Ltd,Fixed Income,North America,0.151480846941097,383000000,1,2.17564873537754
+43316,Lynx Plus Fund LP,Fixed Income,North America,0.0754151193003294,277000000,1,1.97660550371666
+43372,LibreMax Value Partners LP,Fixed Income,North America,0.0917789272341335,353000000,1,2.49462172982037
+43501,Leadenhall Life Insurance Linked Investments Fund Plc USD Accumulating Class Share,Others,Global,-0.00418221957269655,335000000,1,7.63421072746064
+43514,Asian Trade Finance Fund - Class A,Fixed Income,Asia inc Japan,-0.00276763184451128,130000000,1,33.2372946606676
+43604,ArrowMark Income Opportunity Fund LP,Fixed Income,North America,0.0607098663770247,666000000,1,4.38984101860187
+43605,ArrowMark Income Opportunity Fund QP LP,Fixed Income,North America,0.0596982054777431,666000000,1,4.37658874023394
+43609,ArrowMark Income Opportunity Fund Ltd,Fixed Income,North America,0.0605032030584407,666000000,1,4.33207972677147
+43793,Varadero International Ltd - Tranche 1,Fixed Income,Global,0.0410489635334482,887000000,1,4.36724376388195
+43831,Alcentra Structured Credit Opportunity Fund II - Class I-B USD,Fixed Income,Global,0.177824273869704,300000000,1,2.50702312456953
+43834,Artemis US Absolute Return Fund - USD,Long Short Equities,North America,0.0411101571001862,663000000,1,1.20459516494356
+43836,Artemis Pan-European Absolute Return Fund - USD,Long Short Equities,Europe,0.136549864586614,218000000,1,1.51220746353718
+43895,Plenum Cat Bond Fund - Class I USD,Others,Global,-0.00230194828857488,187000000,1,1.15400056973799
+43900,Plenum Cat Bond Fund - Class C USD,Others,Global,-0.00222166818593686,187000000,1,0.983897037970084
+44109,AQR Equity Market Neutral Fund - Class I,Long Short Equities,Global,-0.107632083842604,1850000000,1,1.73453272626879
+44110,AQR Equity Market Neutral Fund - Class N,Long Short Equities,Global,-0.101477137655982,1850000000,1,1.6343544797829
+44115,BMO Real Estate Equity Market Neutral Fund A USD Acc,Bottom-Up,Europe,-0.0425844156083877,263000000,1,1.52502551726955
+44161,Varadero International Ltd - Tranche 2,Fixed Income,Global,0.0401929484899984,887000000,1,4.02818393726484
+44165,Macrosynergy Trading Fund LP - Class C USD,Macro,Emerging Markets,-0.199899765500269,795000000,1,0.77662945130593
+44436,ChapelGate Credit Opportunity Fund Ltd - Class B,Fixed Income,Global,0.161454247702556,706000000,1,3.05825378234999
+44466,Pagoda Master LP,Long Short Equities,Global,-0.0181844896815916,331000000,1,1.66994080696438
+44527,Varadero Partners LP - Tranche 1,Fixed Income,Global,0.0486392718387969,887000000,1,4.390686063508
+44754,Dorsal Capital Partners Ltd,Long Short Equities,North America,0.156999807769314,2172000000,1,0.909492183056601
+44919,Colchis Income Fund LP,Fixed Income,North America,-0.0123692919392123,330000000,1,8.07917220025457
+44923,Colchis Income Fund Ltd,Fixed Income,North America,-0.0123692919392123,863000000,1,8.07917220025457
+45122,Nordkinn Fixed Income Macro Fund - Class G USD,Fixed Income,Global,0.111289244134329,1220000000,1,1.44681755937055
+45262,SPQ Asia Opportunities Fund,Long Short Equities,Greater China,0.188753461997933,160000000,1,1.57109510477322
+45390,BAF Latam Credit Fund,Others,Latin America,-0.00830167242587864,386000000,1,25.6511851408191
+45884,Old Orchard Credit Master Fund LP,Fixed Income,North America,0.118604676201486,385000000,1,2.43679552878977
+45898,Schroder ISF European Alpha Absolute Return Fund - USD Hedged R Acc,Long Short Equities,Europe,-0.0293196235245301,1528999940,1,1.26950375446818
+46251,CC&L Q Global Equity Market Neutral Strategy,Long Short Equities,Global,-0.435057813225093,1752000000,1,2.22998488360127
+46455,Luxembourg Life Fund - Long Term Growth Fund - B Class,Fixed Income,Global,-0.0546399580474759,769000000,1,14.26173327477
+46457,Luxembourg Life Fund - Long Term Growth Fund - G Class,Fixed Income,Global,-0.0350865733392185,769000000,1,16.1279054155586
+46459,Luxembourg Life Fund - Long Term Growth Fund - K Class,Fixed Income,Global,-0.0562129960132844,769000000,1,13.4068540891572
+46534,Credence Global - Class D,CTA/Managed Futures,Global,0.0301409220437416,368000000,1,2.28084716480262
+47244,Ellington Mortgage Opportunities Fund Ltd,Relative Value,North America,0.0114115416553426,399000000,1,1.98347337300201
+47684,FengHe Asia Fund,Long Short Equities,Asia ex Japan,0.185553167196732,138000000,1,1.37633179514473
+47953,BlackRock Global Event Driven Fund - Class A2 USD,Event Driven,Global,-0.0144457873221585,518000000,1,1.20945937033198
+48285,BlackRock Global Event Driven Fund - Class Z2 USD,Event Driven,Global,-0.0197349938796716,518000000,1,1.81048555955325
+48777,MontLake Mygale Event Driven UCITS Fund - USD Institutional Class,Event Driven,Europe,0.0822327425674495,150000000,1,1.55019899179523
+48906,Promeritum Fund SPC - Class A,Fixed Income,Emerging Markets,0.182283722900192,215000000,1,3.6356977519187
+49074,Crawford Lake Offshore Partners Ltd,Long Short Equities,North America,0.113545409310685,208000000,1,2.23288668331824
+49174,OCCO Eastern European Fund - Class A USD R,Long Short Equities,Emerging Markets,-0.103251039631245,486000000,1,4.29981976730214
+49180,OCCO Eastern European Fund - Class C USD R,Long Short Equities,Emerging Markets,-0.110291055311933,486000000,1,4.08047568544322
+49183,OCCO Eastern European Fund - Class C USD,Long Short Equities,Emerging Markets,-0.0984740608229461,486000000,1,4.0214958306467
+49187,OCCO Eastern European Fund - Class D USD R,Long Short Equities,Emerging Markets,-0.0962362998166324,486000000,1,4.24102080758615
+49189,OCCO Eastern European Fund - Class D USD,Long Short Equities,Emerging Markets,-0.0835660570675237,486000000,1,4.29056114869453
+49280,Orchard Landmark,Others,Asia ex Japan,0.11716932560673,1070000000,1,5.99395456111551
+49300,Montlake Angel Oak Multi-Strategy Income UCITS Fund - USD Institutional Class Accumulating,Bottom-Up,North America,0.123516770403709,449000000,1,3.62034586808029
+49609,Montlake Angel Oak Multi-Strategy Income UCITS Fund - USD Institutional Class Founder,Bottom-Up,North America,0.124316298290059,449000000,1,3.78703911285208
+50013,Swan Defined Risk Fund - Class I Shares,Long Short Equities,North America,0.185183962737711,2932000000,1,2.30252572519476
+50295,Everbright Dynamic Bond Fund - Class C,Fixed Income,Asia inc Japan,0.158520418271389,301000000,1,4.67068301523813
+50445,CITICS Pan-Asian Multi-Strategy Fund,Multi-Strategy,Asia inc Japan,-0.0486683227844282,193000000,1,3.39975288708799
+50569,Spinnaker Emerging Markets Macro Fund - Class S2 USD,Macro,Emerging Markets,0.0146818838073937,242000000,1,0.909965267903529
+50630,Spinnaker Emerging Markets Macro Fund - Class A2 USD,Macro,Emerging Markets,0.0236205256689306,242000000,1,0.771499151544259
+50814,Schroder ISF Asian Bond Total Return USD Z Acc,Fixed Income,Asia ex Japan,0.0766613078869911,373000000,1,1.2844438192503
+50858,SCOR ILS Fund - Atropos Catbond Fund Class B3 USD,Fixed Income,Global,-0.150203740124628,157000000,1,2.26963200700886
